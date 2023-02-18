@@ -1,2 +1,2 @@
-# CV
-Resue Website (my first website)
+# Resume
+Resume Website (my first website)
